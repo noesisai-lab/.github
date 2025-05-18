@@ -33,8 +33,8 @@ We are actively working on:
   👉 **[github.com/noesisai-lab](https://github.com/noesisai-lab)**
 
   Before using any of our software, please make sure to read and understand the terms:
-  
-  👉 **[Noesis AI License Agreement](https://github.com/noesisai-lab/.github/LICENSE)** — Ethical use is mandatory.
+
+  👉 **[Noesis AI License Agreement](https://github.com/noesisai-lab/.github/blob/main/LICENSE)** — Ethical use is mandatory.
 
 ---
 
@@ -63,7 +63,7 @@ We're just getting started, and the road ahead is long. But **we're building it 
 - 🔗 **Website:** [noesisai.org](https://noesisai.org)
 - 💾 **Code Repository:** [github.com/noesisai-lab](https://github.com/noesisai-lab)  
 - ✉️ **Contact:** [info@noesisai.org](mailto:info@noesisai.org)
-- 📜 **License:** [Noesis AI License Agreement](https://github.com/noesisai-lab/.github/LICENSE)
+- 📜 **License:** [Noesis AI License Agreement](https://github.com/noesisai-lab/.github/blob/main/LICENSE)
 
 ---
 
