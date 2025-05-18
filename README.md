@@ -31,6 +31,7 @@ We are actively working on:
 - **Open Collaboration and Open Science**  
   All our research and code are and will remain open-source. You can follow our progress and contribute on our GitHub:  
   👉 **[github.com/noesisai-lab](https://github.com/noesisai-lab)**
+  
   Before using any of our software, please make sure to read and understand the terms:
   👉 **[Noesis AI License Agreement](https://github.com/noesisai-lab/.github/LICENSE)** — Ethical use is mandatory.
 
